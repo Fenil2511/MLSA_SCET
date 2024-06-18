@@ -1,1 +1,7 @@
-# MLSA_SCET
+# MLSA SCET
+
+*italic*  
+_italic_
+
+**bold**
+__Bold__
